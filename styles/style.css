@@ -159,7 +159,7 @@
   display: grid;
   grid-template-columns: 1fr;
   padding: 0 10px;
-  margin-top: 50px;
+  margin-top: 51px;
   gap: 10px;
 }
 .gallery__item {
@@ -182,7 +182,7 @@
   min-block-size: 667px;
   padding: 10px;
   margin-top: 40px;
-  position: relative;  
+  position: relative;
 }
 
 .footer::before {
@@ -249,10 +249,10 @@
 
   .header__subtitle {
     justify-self: end;
-    max-width: 364px;    
+    max-width: 364px;
   }
 
-  .decorated-zone::before { 
+  .decorated-zone::before {
     top: 20px;
     right: 20px;
   }
@@ -369,7 +369,7 @@
   }
 
   .header__subtitle {
-    max-inline-size: 491px;    
+    max-inline-size: 491px;
   }
 
   .content__reasons {
@@ -383,7 +383,7 @@
   .columns__motive {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
-    gap: 19px;  
+    gap: 19px;
   }
 
   .content__advice {
@@ -397,7 +397,7 @@
 
   .footer__title {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-  }  
+  }
 }
 
 
