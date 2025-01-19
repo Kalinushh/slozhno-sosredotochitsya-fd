@@ -388,7 +388,7 @@
 
   .content__advice {
     grid-template-columns: 1fr minmax(649px, 1fr);
-    margin-top: 50px;
+    margin-top: 51px;
   }
 
   .footer {
