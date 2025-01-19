@@ -14,6 +14,7 @@
   --decor-color: var(--pure-pink);
   --theme-menu-hover-color: var(--pur-pink-transp);
   --bg-page: var(--bg-page-dark);
+  --bg-color: var(--blue-bg);
 }
 
 .theme-dark .page {

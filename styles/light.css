@@ -14,6 +14,7 @@
   --decor-color: var(--dark-grayish);
   --theme-menu-hover-color: var(--dark-grayish-transp);
   --bg-page: var(--bg-page-light);
+  --bg-color: var(--pink-bk);
 }
 
 .theme-light .page {
@@ -32,6 +33,7 @@
     --decor-color: var(--dark-grayish);
     --theme-menu-hover-color: var(--dark-grayish-transp);
     --bg-page: var(--bg-page-light);
+    --bg-color: var(--pink-bk);
   }
 
   .header__decorated {
