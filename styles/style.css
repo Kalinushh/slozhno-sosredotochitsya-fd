@@ -135,7 +135,7 @@
   }
 
 .page {
-  background-image: var(--bg-page);
+  background-image: var(--bg-page, url(../images/cover-image-dark.png));
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
