@@ -1,4 +1,16 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+  --font: "IBM Plex mono";
+  --size-sb-font: 18px;
+  --pure-pink: #ff0070;
+  --pink: #DB00FF;
+  --soft-pink: #F1B2CE;
+  --black: #000028;
+  --pur-pink-transp: rgba(255, 0, 112, 0.4);
+  --bg-page-dark: url(../images/cover-image-dark.png);
+  --bg-page-light: url(../images/cover-image-light.png);
+  --dark-grayish: #353430;
+  --light-pink: #FF8DCB;
+  --pale-pink: #FFC2E6;
+  --dark-grayish-transp: rgba(50, 49, 45, 0.4);
+
+}
