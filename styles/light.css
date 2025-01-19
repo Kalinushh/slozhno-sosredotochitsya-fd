@@ -13,6 +13,7 @@
   --menu-color:var(--dark-grayish);
   --decor-color: var(--dark-grayish);
   --theme-menu-hover-color: var(--dark-grayish-transp);
+  --bg-page: var(--bg-page-light);
 }
 
 .theme-light .page {
@@ -34,6 +35,7 @@
     --menu-color:var(--dark-grayish);
     --decor-color: var(--dark-grayish);
     --theme-menu-hover-color: var(--dark-grayish-transp);
+    --bg-page: var(--bg-page-light);
   }
 
   .header__decorated {

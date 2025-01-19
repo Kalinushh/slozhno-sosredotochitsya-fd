@@ -13,6 +13,7 @@
   --menu-color:var(--pure-pink);
   --decor-color: var(--pure-pink);
   --theme-menu-hover-color: var(--pur-pink-transp);
+  --bg-page: var(--bg-page-dark);
 }
 
 .theme-dark .page {
