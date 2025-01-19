@@ -20,10 +20,6 @@
   --bg-page: var(--bg-page-light);
 }
 
-.header__decorated {
-  display: none;
-}
-
 
 @media (prefers-color-scheme: light) {
   :root {
